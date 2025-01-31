@@ -17,25 +17,27 @@ export const metadata: Metadata = {
   keywords: ["keywords"],
   authors: [
     {
-      name: "Nobody McGee",
+      name: siteConfig.user,
       url: "https://cc-nextfolio.vercel.app",
     },
   ],
-  creator: "noMcGee",
+  creator: siteConfig.user,
   openGraph: {
-    type: "website",
-    locale: "en_US",
-    url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
+    url: siteConfig.url,
     siteName: siteConfig.name,
+    images: [siteConfig.ogImage],
+    type: "website",
+    locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
+    creator: siteConfig.username,
+    site: siteConfig.username,
     images: [siteConfig.ogImage],
-    creator: "@nomcgeeeeeeeeeee",
   },
   icons: {
     icon: "/favicon.ico",
