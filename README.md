@@ -1,11 +1,11 @@
-# Your Typed Website
-_"This is your new website!"_
+# CC NextFolio
+_"Your new website/portfolio!"_
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/your-typed-website) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/your-typed-website)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/cc-nextfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/cc-nextfolio)
 
 ## Overview
 
-Your Typed Website is a customizable portfolio website built with modern web technologies like Next.js, Tailwind CSS, and Content Collections. It serves as a sleek and functional starting point for creating your personal or professional portfolio. Easily migrate and adapt it to showcase your work or achievements.
+CC Nextfolio is a customizable portfolio website built with modern web technologies like Next.js, Tailwind CSS, and Content Collections. It serves as a sleek and functional starting point for creating your personal or professional portfolio. Easily migrate and adapt it to showcase your work or achievements.
 
 ![yourtypedwebsite](https://github.com/user-attachments/assets/38ba5477-ae78-4c11-b752-161557aaa342)
 
@@ -39,7 +39,7 @@ Clone the repository:
 1.  **Clone the repository:**
 
 ```
-git clone https://github.com/your-username/your-typed-website.git
+git clone https://github.com/your-username/cc-nextfolio.git
 cd your-typed-website
 ```
 
