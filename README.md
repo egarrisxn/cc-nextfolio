@@ -1,4 +1,5 @@
 # CC NextFolio
+
 _"Your new website/portfolio!"_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/cc-nextfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/cc-nextfolio)
@@ -29,6 +30,7 @@ CC Nextfolio is a customizable portfolio website built with modern web technolog
 ## Getting Started
 
 ### Prerequisites
+
 Ensure you have the following installed:
 Node.js (v18 or later)
 
@@ -40,7 +42,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/your-username/cc-nextfolio.git
-cd your-typed-website
+cd cc-nextfolio
 ```
 
 2. **Install dependencies:**
@@ -60,13 +62,15 @@ pnpm dev
 ### Deployment
 
 1. Build the project
+
 ```
 pnpm build
 ```
-  
+
 2. Deploy to a platform like Vercel, Netlify, or any static hosting provider.
 
 ### Scripts
+
 `pnpm dev`: Start the development server with live reloading.
 
 `pnpm build`: Build the site for production.
