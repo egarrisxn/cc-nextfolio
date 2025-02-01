@@ -1,14 +1,12 @@
 # CC NextFolio
 
-_"Your new website/portfolio!"_
+![ccnextfolio](https://github.com/user-attachments/assets/b09b070e-1a3d-4c59-8409-eb00590ff70f)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/cc-nextfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/cc-nextfolio)
 
 ## Overview
 
 CC Nextfolio is a customizable portfolio website built with modern web technologies like Next.js, Tailwind CSS, and Content Collections. It serves as a sleek and functional starting point for creating your personal or professional portfolio. Easily migrate and adapt it to showcase your work or achievements.
-
-![yourtypedwebsite](https://github.com/user-attachments/assets/38ba5477-ae78-4c11-b752-161557aaa342)
 
 ## Features
 
