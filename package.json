@@ -1,6 +1,9 @@
 {
   "name": "cc-nextfolio",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Minimal Content Collections + Next.js Portfolio Template.",
+  "homepage": "https://cc-nextfolio.vercel.app",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "concurrently \"content-collections watch\" \"next dev\"",
