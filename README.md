@@ -39,7 +39,7 @@ Clone the repository:
 1.  **Clone the repository:**
 
 ```
-git clone https://github.com/your-username/cc-nextfolio.git
+git clone https://github.com/egarrisxn/cc-nextfolio.git
 cd cc-nextfolio
 ```
 
